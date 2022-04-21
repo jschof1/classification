@@ -64,6 +64,11 @@ tab button.active {
     padding: 4px;
 	margin-right: -2px;
 	padding-left: 17px;
+	min-height: 200px;
+}
+#area {
+	min-height: 100px;
+	min-width: 1400px;
 }
 #evaluation-set {
   min-width: 1400px;
